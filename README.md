@@ -1,5 +1,3 @@
-# loop-engineering
-brief
 
 ## Claude Code
 
